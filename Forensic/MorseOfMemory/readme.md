@@ -1,4 +1,7 @@
-MorseOfMemory
+# MorseOfMemory
+
+author: Gordon
+
 
 saat ngobrol di kelas rehan membagikan sebuah file
 tapi kata rehan file itu bisa di buka kalo kita ikut pramuka
