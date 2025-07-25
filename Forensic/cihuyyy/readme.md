@@ -1,10 +1,17 @@
-cihuyyy
+# cihuyyy
 
+author: Gordon
+
+## Description
 jangan lupa cihuyyyy dulu
 
+## Difficulty
 easy 
 
 200 
+
+## Tags
+`binwalk`
 
 format NevComp{}
 
