@@ -10,8 +10,6 @@ setelah solat subuh saya ketiduran dan mengalami mimpi yg aneh
 ## Difficulty
 medium
 
-medium 
-
 300
 
 format NevComp{}
